@@ -1,1 +1,1 @@
-# C-_dinining_Philosopher
+# C_sharp_dinining_Philosopher
